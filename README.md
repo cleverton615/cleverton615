@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Formado em Análise e Desenvolvimento de Sistemas e uma Pós-graduação em Engenharia de Software. Em transição de carreira para a área de tecnologia (Desenvolvedor Front-End). Trabalho com desenvolvimento, aprimoramento e manutenção de sistemas Web utilizando tecnologias como JavaScript, HTML e CSS.</p>
+<p align="left">Formado em Análise e Desenvolvimento de Sistemas e uma Pós-graduação em Engenharia de Software. Em transição de carreira para a área de tecnologia (Desenvolvedor Back-end).</p>
 
 ###
 
